@@ -1,5 +1,5 @@
 # Demo
+
 This is demo repo of 2023 R stats course.
 
-This is my local version.
-
+This is combination of my local version and _GitHub_ version. 
